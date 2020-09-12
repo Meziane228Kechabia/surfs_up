@@ -14,6 +14,9 @@ Many database functions did not work well when running my code until     I have 
 •	The minimum temperature for the month of June is 64f, and 56F for the month of December.
 •	The average temperature for the month of June is 75f, and 71F for the month of December. 
 •	The maximum temperature for the month of June is 85f, and 83F for the month of December.
+See link below to locate the summary statistics:
+https://github.com/Meziane228Kechabia/surfs_up/blob/master/June%20Summary%20Statistics.png
+https://github.com/Meziane228Kechabia/surfs_up/blob/master/December%20Summary%20Statistics.png
 
 
 # Summary
